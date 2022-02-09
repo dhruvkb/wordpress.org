@@ -45,6 +45,7 @@ Follow these steps to set up a local playground for the theme:
         ```
     5.  `cd` back to the Openverse theme directory at `..`
         (i.e. `wordpress.org/wordpress.org/public_html/wp-content/themes/pub/wporg-openverse`).
+    6.  `cp` the `mu-plugins.php` file to `./wporg-mu-plugins/mu-plugins/mu-plugins.php`.
 
 3.  You can choose to set up a new environment automatically or work in an
     existing environment with manual setup.
